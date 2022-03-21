@@ -1,4 +1,7 @@
 # création du réseau d’un centre de formation
+<div align="center">
+    <img src="images/infrastructure.png" alt="infra" width="80%" height="80%">
+</div>
 •	Définir l’adressage réseau des différents équipements et mettre en place le réseau local
 
 •	Mettre en place un serveur DHCP, DNS,  NFS
